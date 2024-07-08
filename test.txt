@@ -1,5 +1,6 @@
 String content = 동해물과 백두산이 마르고 닳도록;
 String name = "우찬이는 부자다";
+String name = "지환이는 졸부다";
 int number = 101;
 
 void main(){
